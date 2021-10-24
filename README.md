@@ -22,3 +22,8 @@
 
 [PostMan data](/src/test/data/cqrs-demo.postman_collection.json)
 
+### Flow Diagram
+
+    The below image shows how the flow will be handled by cqrs pattern.
+
+![image](/src/test/docs/flow-diagram.png)
